@@ -1,30 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./resources/css/bootstrap.min.css">
-    <link rel="stylesheet" href="./resources/css/bootstrap-icons/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="./resources/css/main.css">
-
+    <title>En Linea | Inicio</title>
+    <!-- css de la pagina -->
+    <?php include 'partes/css.php'; ?>
+</head>
 <body class="px_3">
-    <div class="row mt-5">
-        <div class="col-sm-12 col-md-6">
-            <h1 class="text-center">EN LINEA</h1>
-        </div>
-        <div class="col-sm-12 col-md-6">
-            <p class="text-right pr-5">
-                SOLUCIONES MUNDIALES
-            </p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-12">
-            <img class="w-100" style="height: 350 px;" src="./resources/img/baner01.PNG" alt="">
-        </div>
-    </div>
+    <!-- header de la pagina -->
+    <?php include 'partes/header.php'; ?>
     <div class="container mt-4">
         <h1 class="h1">SOLUCIONES CREATIVAS</h1>
         <P> sin importar cual sea tu negocio,nuestro equipo puede hacerlo desde cero.
@@ -49,7 +35,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-sm-12 col-md-4">
                 <div class="card border-0">
                     <div class="card-body">
@@ -61,8 +46,7 @@
             </div>
         </div>
     </div>
-    <footer class="bg-wine">
-        <p class="p-5 text-white">Edificio IDEX PJ, jr. Amazonas 120- Chachapoyas Chachapoyas-Amazonas</p>
-    </footer>
+    <!-- footer de la pagina -->
+    <?php include 'partes/footer.php'; ?>
 </body>
 </html>
