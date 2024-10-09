@@ -14,7 +14,7 @@
         <div class="card border-0">
             <div class="card-header bg-white border-0">
                 <h1 class="h1">
-                    <i class="bi bi-pencil-fill"></i> DISEÑO
+                    <i class="bi bi-airplane"></i> EDICIÓN DE LIBROS
                 </h1>
             </div>
             <div class="card-body">

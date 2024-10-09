@@ -14,13 +14,13 @@
         <div class="card border-0">
             <div class="card-header bg-white border-0">
                 <h1 class="h1">
-                    <i class="bi bi-pencil-fill"></i> DISEÑO
+                    <i class="bi bi-flower1"></i> DESARROLLO
                 </h1>
             </div>
             <div class="card-body">
                 <div class="row">
                     <div class="col-sm-12 col-md-6">
-                        <img class="w-100" src="./resources/img/idea_01.PNG" alt="">
+                        <img class="w-100" src="./resources/img/idea_02.PNG" alt="">
                     </div>
                     <div class="col-sm-12 col-md-6">
                         <p>
